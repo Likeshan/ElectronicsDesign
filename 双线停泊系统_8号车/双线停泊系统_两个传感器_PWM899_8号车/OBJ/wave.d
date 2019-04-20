@@ -1,0 +1,10 @@
+..\obj\wave.o: ..\HARDWARE\WAVE\wave.c
+..\obj\wave.o: ..\HARDWARE\WAVE\wave.h
+..\obj\wave.o: ..\SYSTEM\sys\sys.h
+..\obj\wave.o: ..\SYSTEM\sys\stm32f10x.h
+..\obj\wave.o: ..\SYSTEM\sys\core_cm3.h
+..\obj\wave.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\wave.o: ..\SYSTEM\sys\system_stm32f10x.h
+..\obj\wave.o: ..\SYSTEM\delay\delay.h
+..\obj\wave.o: ..\SYSTEM\usart\usart.h
+..\obj\wave.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdio.h
